@@ -1,0 +1,17 @@
+.App {
+  font-family: "futura", sans-serif;
+  font-size: 125%;
+  text-align: center;
+  color: #345;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+li {
+  list-style: none;
+  line-height: 1.85;
+  text-align: left;
+}
